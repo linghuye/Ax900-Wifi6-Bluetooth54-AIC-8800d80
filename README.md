@@ -2,7 +2,7 @@
 This driver is for the AIC8800D80 chipset, supported by devices such as the Tenda U11 and AX913B.
 
 淘宝上挂着Ax900名号的低价 USB Wifi6 蓝牙5.4 的驱动程序, 其内部芯片是便宜货AIC 芯片8800D80
-<img width="715" height="713" alt="Ax900" src="https://github.com/user-attachments/assets/6d3a2008-5f4f-43ff-93b3-7f8e83b030e8" />
+<img width="480" height="480" alt="Ax900" src="https://github.com/user-attachments/assets/6d3a2008-5f4f-43ff-93b3-7f8e83b030e8" />
 
 Added support for devices with Vendor ID 368B (tested).
 
